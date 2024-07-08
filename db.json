@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Marvel's The Avengers",
+      "posterPath": "avengers-vm16xv4a69smdauy.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Fast and Furious",
+      "posterPath": "images.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Iron Man",
+      "posterPath": "images (2).jpg"
+    },
+    {
+      "id": "4",
+      "title": "Spider Man",
+      "posterPath": "miles-morales-spiderman-miles-morales-spider-man-peter-parker-spider-gwen-hd-wallpaper-preview.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "2",
+      "title": "Fast and Furious",
+      "posterPath": "images.jpg"
+    }
+  ]
+}
