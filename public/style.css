@@ -3,7 +3,8 @@
 /* Add some spacing between the cards */
 .card {
     margin-bottom: 20px;
-}
+
+padding: 0;;}
 
 /* Add a box shadow to the cards */
 .card {
